@@ -1,7 +1,7 @@
 # byp4ss.        
 
 
-
+rm -rf byp4ss
 
 git clone https://github.com/ranisharma09/byp4ss
 
