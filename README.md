@@ -14,4 +14,4 @@ cd byp4ss
 
 
 
-python BXB_FUCK.py
+python BYPASS.py
