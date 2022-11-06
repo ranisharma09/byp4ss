@@ -16,7 +16,7 @@ cd byp4ss
 
 
 
-python BYPASS.py
+python BYPASS0.2.py
  
 
 
@@ -26,4 +26,4 @@ ______________________________________________________
 
 
 
-python BYP4SS.py
+
